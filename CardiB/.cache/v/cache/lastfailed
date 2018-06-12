@@ -1,0 +1,4 @@
+{
+  "tests/test_cardb.py::test_query_cars_3": true,
+  "tests/test_cardb.py::test_query_cars_4": true
+}

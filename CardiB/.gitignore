@@ -1,0 +1,5 @@
+.venv
+.tags
+.pytest_cache/
+cardb.egg-info/
+*.pyc
