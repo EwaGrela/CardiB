@@ -27,5 +27,4 @@ pip install pytest
 cd straal-intern-task-2018/
 pip install -e .
 ```
-## Questions?
-Don't hesitate to mail me: pawel.dobrowolski@straal.com
+
