@@ -1,4 +1,4 @@
-# Straal 2018 internship task: CarDB
+# CarDB
 
 Your task is to implement `CarDB` class which is meant to be a high level
 interface for accessing and modifying database containing information about cars.
